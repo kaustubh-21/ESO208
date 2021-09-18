@@ -1,4 +1,4 @@
-### This repo contains MATLAB code of computer assignments given in ESO208
+# This repo contains MATLAB code of computer assignments given in ESO208
 
 ## Assignment 1-
 

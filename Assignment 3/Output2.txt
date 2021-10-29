@@ -1,0 +1,8 @@
+Eigenvalue: 3.0749 
+
+Eigenvector:
+0.2482  
+0.9205  
+0.3017  
+
+Iterations: 14 

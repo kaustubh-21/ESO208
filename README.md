@@ -23,6 +23,7 @@
 
         Write a computer program for solving a system of linear equations Ax b  . The user should
         have the option of selecting one of the following methods–
+        
             a. Gauss elimination (GE; without pivoting)
             b. GE (with pivoting)
             c. GE (with scaling and pivoting)
@@ -35,6 +36,7 @@
 
         Write a computer program for finding eigenvalues of a matrix A. The user should
         have the option of selecting one of the following methods–
+        
             a. Direct power method (to find the eigenvalue having the maximum magnitude and the
             corresponding eigenvector)
             b. Inverse power method (to find the eigenvalue having the minimum magnitude and the
